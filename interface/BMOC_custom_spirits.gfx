@@ -1,3 +1,4 @@
+### Better Mechanics: Officer Corps - Custom Spirits GFX ###
 
 
 
@@ -14,7 +15,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_idea_street_sweepers_spirit"
-		texturefile = "gfx/interface/ideas/JGT00/LJ/fzxl.png"
+		texturefile = "gfx/interface/ideas/BMOC/army/fzxl.png"
 	}
   spriteType = {
     name = "GFX_idea_petrol_is_blood_spirit"
@@ -26,11 +27,11 @@ spriteTypes = {
   }
   spriteType = {
     name = "GFX_idea_seniority_spirit"
-    texturefile = "gfx/interface/ideas/JGT00/LJ/fzm.png"
+    texturefile = "gfx/interface/ideas/BMOC/army/fzm.png"
   }
   spriteType = {
     name = "GFX_idea_industry_connections_spirit"
-    texturefile = "gfx/interface/ideas/JGT00/LJ/qhz.png"
+    texturefile = "gfx/interface/ideas/BMOC/army/qhz.png"
   }
    ### ARMY Division Command Spirits ###
   spriteType = {
@@ -79,7 +80,7 @@ spriteType = {
 	}
   spriteType = {
 		name = "GFX_idea_aa_experts_spirit"
-		texturefile = "gfx/interface/ideas/JGT00/HJ/dapj.png"
+		texturefile = "gfx/interface/ideas/BMOC/navy/dapj.png"
 	}    
  ### AIR Spirits ###
  
